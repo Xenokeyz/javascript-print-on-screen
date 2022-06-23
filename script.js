@@ -6,8 +6,8 @@ const print = (text) => {
   console.log(text);
 };
 
-const name = "John Doe";
-const age = "40";
+const name = "butdam israel";
+const age = "24";
 const height = "1.76m";
 
 print(`
