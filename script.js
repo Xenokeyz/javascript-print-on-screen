@@ -9,9 +9,11 @@ const print = (text) => {
 const name = "butdam israel";
 const age = "24";
 const height = "1.76m";
+Const country = "Nigeria";
 
 print(`
     Name: ${name}
     Age: ${age}
     Height: ${height}
+    Country: ${nigeria}
 `);
